@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wploey.github.io/"/>
-  <updated>2017-05-26T07:45:05.197Z</updated>
+  <updated>2017-05-27T03:49:18.928Z</updated>
   <id>https://wploey.github.io/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>centos laravel环境</title>
+    <link href="https://wploey.github.io/2017/05/26/centos-laravel%E7%8E%AF%E5%A2%83/"/>
+    <id>https://wploey.github.io/2017/05/26/centos-laravel环境/</id>
+    <published>2017-05-26T19:49:18.000Z</published>
+    <updated>2017-05-27T03:49:18.928Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
